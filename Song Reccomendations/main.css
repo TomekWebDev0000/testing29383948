@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+}
+
+*{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#homebut{
+    list-style: none;
+    text-decoration-color: black;
+    color: black;
+}
+
+#home1{
+    text-decoration-color: black;
+    color: black;
+    background-color: #F0EDCF;
+    border: 0;
+    cursor: pointer;
+    text-shadow: none;
+    text-align: center;
+}
+
+#songs{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}

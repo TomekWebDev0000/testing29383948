@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+}
+
+*{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#egyp1{
+    border: 1ch;
+    border-color: black;
+    width: fit-content;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+#homebut{
+    list-style: none;
+}
+
+#home1{
+    text-decoration-color: black;
+    color: black;
+    background-color: #F0EDCF;
+    border: 0;
+    cursor: pointer;
+    text-shadow: none;
+    text-align: center;
+}

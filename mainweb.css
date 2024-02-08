@@ -1,0 +1,69 @@
+body {
+  margin:25px;
+  background-color: beige;
+  }
+
+#info1{
+  text-align: center;
+}
+
+div.polaroid {
+  justify-content: left;
+  flex: 200px;
+  flex-direction: right;
+  flex-basis: 200px;
+  align-items: center;
+  width: 10cm;
+  background-color: white;
+  box-shadow: 0 4px 800px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 15px;
+}
+
+div.container {
+  display: flexbox;
+  text-align: center;
+  padding: 5px 10px;
+}
+
+#dubaiimage1{
+ display: block;
+ align-items: center;
+ height: auto;
+ scale: 100%;
+  display: block;
+  margin-left: 10.5ch;
+  margin-right: auto;
+  width: auto;
+}
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#h1text{
+    text-decoration: underline;
+    text-align: center;
+}
+
+@media (max-width: 1200px) {
+  div.polaroid {
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 0px) {
+  div.polaroid {
+    flex-direction: row;
+  }
+}
+
+#home1{
+    text-decoration-color: black;
+    color: black;
+    background-color: #F0EDCF;
+    border: 0;
+    cursor: pointer;
+    text-shadow: none;
+    text-align: center;
+}
+

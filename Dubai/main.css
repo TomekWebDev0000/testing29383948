@@ -1,0 +1,52 @@
+body{
+    background-color: #F0EDCF;
+}
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+}
+
+#title12{
+    text-decoration: underline;
+    
+}
+
+#dubaip1{
+    border: 1ch;
+    border-color: black;
+    width: fit-content;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+*{
+    text-align: center;
+}
+
+
+#home1{
+    text-decoration-color: black;
+    color: black;
+    background-color: #F0EDCF;
+    border: 0;
+    cursor: pointer;
+    text-shadow: none;
+    text-align: center;
+}
+
+#dubaiimage1{
+    border-radius: 10px;
+    margin: auto;
+    height: 50ch;
+    width: auto;
+    margin-top: 4%;
+}
+
+#title11{
+    text-align: center;
+}
+
+#homebut{
+    list-style: none;
+}
